@@ -51,16 +51,3 @@ let whatDay = UIDatePicker()
 thirdLabel.text = String(whatDay.date.timeIntervalSince1970)
 
 XCPlaygroundPage.currentPage.liveView = view
-
-
-
-
-
-
-
-
-
-
-
-
-
